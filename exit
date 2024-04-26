@@ -1,0 +1,62 @@
+=> 
+[[32m#<PostTag:0x00007fa08a7abb10[0m
+  id: [34m[1m1[0m,
+  post_id: [34m[1m3[0m,
+  tag_id: [34m[1m16[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.116565000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.116565000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0c818[0m
+  id: [34m[1m2[0m,
+  post_id: [34m[1m3[0m,
+  tag_id: [34m[1m15[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.122872000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.122872000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0c6d8[0m
+  id: [34m[1m3[0m,
+  post_id: [34m[1m4[0m,
+  tag_id: [34m[1m14[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.128093000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.128093000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0c458[0m
+  id: [34m[1m4[0m,
+  post_id: [34m[1m4[0m,
+  tag_id: [34m[1m13[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.130832000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.130832000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0c1d8[0m
+  id: [34m[1m5[0m,
+  post_id: [34m[1m4[0m,
+  tag_id: [34m[1m12[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.132344000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.132344000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0c098[0m
+  id: [34m[1m6[0m,
+  post_id: [34m[1m5[0m,
+  tag_id: [34m[1m12[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.136880000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.136880000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0bf58[0m
+  id: [34m[1m7[0m,
+  post_id: [34m[1m5[0m,
+  tag_id: [34m[1m14[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.138970000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.138970000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0be18[0m
+  id: [34m[1m8[0m,
+  post_id: [34m[1m6[0m,
+  tag_id: [34m[1m15[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.143598000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.143598000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0bb98[0m
+  id: [34m[1m9[0m,
+  post_id: [34m[1m6[0m,
+  tag_id: [34m[1m16[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.146779000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.146779000 UTC +00:00[32m>[0m,
+ [32m#<PostTag:0x00007fa089c0b7d8[0m
+  id: [34m[1m10[0m,
+  post_id: [34m[1m6[0m,
+  tag_id: [34m[1m13[0m,
+  created_at: Fri, 26 Apr 2024 16:50:29.148497000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 16:50:29.148497000 UTC +00:00[32m>[0m,
+ [31m[1m"[0m[31m...[0m[31m[1m"[0m]
